@@ -4,6 +4,7 @@ lsp.preset("recommended")
 
 lsp.ensure_installed({
   'tsserver',
+  'vue-language-server',
   'rust_analyzer',
 })
 
